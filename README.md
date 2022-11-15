@@ -1,1 +1,1 @@
-# Assignment_3
+# Software Project 2 (Assignment_3)
